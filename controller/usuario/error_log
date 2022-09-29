@@ -1,0 +1,3 @@
+[01-Dec-2021 04:53:41 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vlmlza3cj7b0/public_html/model/usuario/conexion.php on line 18
+[01-Dec-2021 04:53:41 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/vlmlza3cj7b0/public_html/model/usuario/conexion.php on line 19
+[01-Dec-2021 04:53:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vlmlza3cj7b0/public_html/model/usuario/Usuario.php on line 46
